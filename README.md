@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Raja Raizada</h1>
 <h3 align="center">An AI/ML enthusiast and a Data Analyst.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif">
 
 - 🔭 I’m currently working on **Multiple Projects under NLP and Deep Learning.**
 
