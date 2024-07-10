@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Raja Raizada</h1>
-<h3 align="center">An AI/ML enthusiast and a Data Analyst.</h3>
+<h3 align="center">A Data Analyst and an AI/ML enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif">
 
 - 🔭 I’m currently working on **Multiple Projects under NLP and Deep Learning.**
